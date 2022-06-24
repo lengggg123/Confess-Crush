@@ -1,20 +1,16 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Công ty TNHH Một Mình EM",
+    introTitle: 'HẢI LAN SHOP KÍNH CHÀO QUÝ KHÁCH',
+    introDesc: `Xin chào khách hàng LÊ TRƯƠNG ĐỨC HIẾU! 
+    Cảm ơn quý khách đã tin tưởng và lựa chọn dịch vụ tại Hải Lan shop. 
+    Cửa hàng chúng tôi xin thông báo quý khách dã đăng ký thành công gói dịch vụ VIP và trở thành khách hàng thân thiết đầu tiên (và duy nhất) của Hải Lan shop. Quý khách có đồng ý với tất cả các điều khoản mà HL Shop đã đề cập trước đó không ạ? ',
+    btnYes: 'Đương nhiên là rùii ',
+    btnNo: 'Khum nha :3 nhà phải có nóc ạ',
+    question: 'Cảm ơn quý khách đã tin tưởng và sử dụng dịch vụ. Dịch vụ sẽ bắt được bắt đầu vào thời điểm quý khách nhận được tin nhắn này. Phí sử dụng DV là một buổi đi trì bất kỳ trong phạm vi TPHCM. DV gia hạn sau 24h kể từ ngày đăng ký.',
+    btnReply: 'Uki ạ hjhj :>',
+    reply: 'Xin vui lòng soạn tin nhắn theo cú pháp khongiuaichiyeuHaiLan để xác nhận sử dụng dịch vụ',
+    mess: 'khongiuaichiyeuHaiLan',
+    messDesc: 'Cảm ơn quý khách đã lựa chọn đồng hành cùng Hải Lan shop, mọi thắc mắc vui lòng ib hoặc gặp nhau rồi nói chớ ai gảnh làm sale quài má =))',
+    btnAccept: 'Uki lun :< iem là nhất ạ',
+    messLink: 'https://www.facebook.com/lancute2trieunam/' 
 }
