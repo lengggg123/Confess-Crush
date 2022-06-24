@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    titleWeb: "Hé lu anh iu",
+    introTitle: 'Đây là một bài kiểm tra 15p',
+    introDesc: `Đọc password để đăng nhập vào chái tym của Lan`,
+    btnIntro: 'Uki',
+    title: 'Anh có thấy Lan đáng iu hum🥰',
+    desc: 'Lan là ngừi cute nhất trên đời đúng hum ạ?',
+    btnYes: 'Đúng gòi',
+    btnNo: 'Khum nha :3 anh đáng iu hơn',
+    question: 'Trên thế giới hơn 7 tỉ người, nụ cười của ... là xinh đẹp nhất (điền vào chỗ trống)',
+    btnReply: 'Lan',
+    reply: 'Cũng là Lan luôn',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'Tối nay đi trì khum',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.facebook.com/lancute2trieunam/',
 }
